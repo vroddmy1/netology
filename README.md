@@ -1,4 +1,4 @@
 ### Some examples from Netology lessons.
 
 #### Content
-* PHP. Lesson 5
+* [PHP. Lesson 5](php/lesson5)
