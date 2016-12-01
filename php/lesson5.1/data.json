@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2016-10-10",
+    "what": "Oil",
+    "who": "Ivan Ivanov",
+    "amount": -1200
+  },
+  {
+    "date": "2016-10-12",
+    "what": "Food",
+    "who": "Victoria",
+    "amount": -4200
+  },
+  {
+    "date": "2016-11-11",
+    "what": "Oil",
+    "who": "Victoria",
+    "amount": 200
+  }
+]
