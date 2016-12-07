@@ -1,0 +1,13 @@
+[
+  {
+    "question": "Сколько лет?",
+    "answers": [
+      25, 24, 261
+    ],
+    "correct_answer": 25
+  },
+  {
+    "question": "Сколько месяцев?",
+    "answer": 9
+  }
+]
