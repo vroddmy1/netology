@@ -19,7 +19,6 @@ function applyFilter($data, $filters)
                 case '<':
                     if ($rowData[$key] < $value) {
                         $resultData[$i] = $rowData;
-                        echo '<pre>';
                     }
                     continue 2;
                 case '>':
