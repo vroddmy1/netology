@@ -1,0 +1,20 @@
+[
+    {
+        "id": 100,
+        "login": "admin",
+        "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "username": "Иванов Иван"
+    },
+    {
+        "id": 102,
+        "login": "user",
+        "password": "6cb75f652a9b52798eb6cf2201057c73",
+        "username": "Андрей Петрович"
+    },
+    {
+        "id": 103,
+        "login": "max",
+        "password": "2ffe4e77325d9a7152f7086ea7aa5114",
+        "username": "Максим"
+    }
+]
